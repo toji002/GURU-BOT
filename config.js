@@ -3,13 +3,13 @@ import chalk from 'chalk'
 import { fileURLToPath } from 'url'
 import fs from 'fs'
 
-global.owner = [['+994407728657', 'TOJI ZENIN', true], ['6281255369012', 'Ash', true], ['']] //Number of owners
+global.owner = [['+994407728657', 'TOJI ZENIN', true], ['994407728657', 'toji', true], ['']] //Number of owners
 
 //global.pairingNumber = "" //put your bot number here
 
-global.mods = ['917605902011', '32460248586']
-global.prems = ['917605902011', '32460248586', '919398758484']
-global.allowed = ['917605902011', '32460248586', '19152999993']
+global.mods = ['994407728657']
+global.prems = ['994407728657']
+global.allowed = ['994407728657']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = [
@@ -55,7 +55,7 @@ global.APIKeys = {
 // Sticker WM
 global.botname = 'Trafalgar D. Water Law'
 global.premium = 'true'
-global.packname = 'GURU┃ᴮᴼᵀ'
+global.packname = ' '
 global.author = 'TOJI ZENIN'
 global.menuvid = 'https://i.imgur.com/AjDzGgG.mp4'
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/guru.json\n'
